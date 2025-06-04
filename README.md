@@ -1,6 +1,13 @@
 # 💫 About Me:
-Hi, I'm Arjun Santhosh!<br>A passionate Flutter developer with a strong background in creating cross-platform mobile applications and an eye for intuitive UI/UX design. Currently pursuing a degree in computer application from Kristu Jyoti College of Management and Technology, I am committed to staying at the forefront of mobile app development by continually learning and improving my skills.<br><br>My expertise lies in building efficient, scalable, and visually appealing applications using Flutter and Dart. I am particularly enthusiastic about creating seamless user experiences and leveraging Flutter's capabilities to develop apps for multiple platforms with a single codebase. By keeping up with the latest industry trends and technologies, I ensure that my projects reflect modern standards and innovative approaches.<br><br>As a proactive and detail-oriented developer, I aim to contribute meaningfully to a dynamic team by delivering high-quality applications that solve real-world problems. My goal is to combine technical proficiency with creativity to make a lasting impact in the fast-paced world of app development.<br><br>I am excited to collaborate with like-minded professionals, applying my skills to bring ideas to life and enhance user experiences through Flutter's power.
+Hi, I'm Arjun Santhosh — a passionate developer specializing in Flutter, with additional experience in PHP and Python Flask.
 
+I hold a Bachelor’s degree in Computer Applications from Kristu Jyoti College of Management and Technology, affiliated with Mahatma Gandhi University. I'm committed to continuous learning and staying at the forefront of mobile and web development.
+
+I build efficient, scalable, and visually polished applications using Flutter and Dart, with a strong focus on intuitive UI/UX and cross-platform performance. I also have practical experience in developing full-stack web applications using PHP and MySQL, and backend services with Python Flask.
+
+I'm detail-oriented, creative, and driven by a desire to solve real-world problems through modern technology. My goal is to deliver user-focused digital solutions that are both functional and impactful.
+
+I'm excited to collaborate with innovative teams and bring ideas to life through clean, purposeful code.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2UZsqxPH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun._santhosh._) 
