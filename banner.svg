@@ -1,0 +1,39 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Arjun Santhosh - Full Stack Developer Banner</title>
+  <desc>A dark themed banner with geometric code-inspired background</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3fb950;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="680" height="200" fill="url(#bg)" rx="12"/>
+
+  <g opacity="0.12" fill="#58a6ff">
+    <circle cx="40" cy="30" r="1.5"/><circle cx="80" cy="30" r="1.5"/><circle cx="120" cy="30" r="1.5"/><circle cx="160" cy="30" r="1.5"/><circle cx="200" cy="30" r="1.5"/><circle cx="240" cy="30" r="1.5"/><circle cx="280" cy="30" r="1.5"/><circle cx="320" cy="30" r="1.5"/><circle cx="360" cy="30" r="1.5"/><circle cx="400" cy="30" r="1.5"/><circle cx="440" cy="30" r="1.5"/><circle cx="480" cy="30" r="1.5"/><circle cx="520" cy="30" r="1.5"/><circle cx="560" cy="30" r="1.5"/><circle cx="600" cy="30" r="1.5"/><circle cx="640" cy="30" r="1.5"/>
+    <circle cx="40" cy="70" r="1.5"/><circle cx="80" cy="70" r="1.5"/><circle cx="120" cy="70" r="1.5"/><circle cx="160" cy="70" r="1.5"/><circle cx="200" cy="70" r="1.5"/><circle cx="240" cy="70" r="1.5"/><circle cx="280" cy="70" r="1.5"/><circle cx="320" cy="70" r="1.5"/><circle cx="360" cy="70" r="1.5"/><circle cx="400" cy="70" r="1.5"/><circle cx="440" cy="70" r="1.5"/><circle cx="480" cy="70" r="1.5"/><circle cx="520" cy="70" r="1.5"/><circle cx="560" cy="70" r="1.5"/><circle cx="600" cy="70" r="1.5"/><circle cx="640" cy="70" r="1.5"/>
+    <circle cx="40" cy="110" r="1.5"/><circle cx="80" cy="110" r="1.5"/><circle cx="120" cy="110" r="1.5"/><circle cx="160" cy="110" r="1.5"/><circle cx="200" cy="110" r="1.5"/><circle cx="240" cy="110" r="1.5"/><circle cx="280" cy="110" r="1.5"/><circle cx="320" cy="110" r="1.5"/><circle cx="360" cy="110" r="1.5"/><circle cx="400" cy="110" r="1.5"/><circle cx="440" cy="110" r="1.5"/><circle cx="480" cy="110" r="1.5"/><circle cx="520" cy="110" r="1.5"/><circle cx="560" cy="110" r="1.5"/><circle cx="600" cy="110" r="1.5"/><circle cx="640" cy="110" r="1.5"/>
+    <circle cx="40" cy="150" r="1.5"/><circle cx="80" cy="150" r="1.5"/><circle cx="120" cy="150" r="1.5"/><circle cx="160" cy="150" r="1.5"/><circle cx="200" cy="150" r="1.5"/><circle cx="240" cy="150" r="1.5"/><circle cx="280" cy="150" r="1.5"/><circle cx="320" cy="150" r="1.5"/><circle cx="360" cy="150" r="1.5"/><circle cx="400" cy="150" r="1.5"/><circle cx="440" cy="150" r="1.5"/><circle cx="480" cy="150" r="1.5"/><circle cx="520" cy="150" r="1.5"/><circle cx="560" cy="150" r="1.5"/><circle cx="600" cy="150" r="1.5"/><circle cx="640" cy="150" r="1.5"/>
+    <circle cx="40" cy="190" r="1.5"/><circle cx="80" cy="190" r="1.5"/><circle cx="120" cy="190" r="1.5"/><circle cx="160" cy="190" r="1.5"/><circle cx="200" cy="190" r="1.5"/><circle cx="240" cy="190" r="1.5"/><circle cx="280" cy="190" r="1.5"/><circle cx="320" cy="190" r="1.5"/><circle cx="360" cy="190" r="1.5"/><circle cx="400" cy="190" r="1.5"/><circle cx="440" cy="190" r="1.5"/><circle cx="480" cy="190" r="1.5"/><circle cx="520" cy="190" r="1.5"/><circle cx="560" cy="190" r="1.5"/><circle cx="600" cy="190" r="1.5"/><circle cx="640" cy="190" r="1.5"/>
+  </g>
+
+  <text x="480" y="55" font-family="monospace" font-size="11" fill="#3fb950" opacity="0.35">const dev = new Arjun();</text>
+  <text x="490" y="75" font-family="monospace" font-size="11" fill="#58a6ff" opacity="0.35">dev.build("scalable apps");</text>
+  <text x="500" y="95" font-family="monospace" font-size="11" fill="#f78166" opacity="0.35">// Flutter · Flask · SQL</text>
+  <text x="490" y="115" font-family="monospace" font-size="11" fill="#e3b341" opacity="0.30">dev.deploy(production);</text>
+
+  <rect x="30" y="155" width="60" height="3" rx="2" fill="url(#accent)" opacity="0.8"/>
+  <circle cx="620" cy="50" r="40" fill="#58a6ff" opacity="0.04"/>
+  <circle cx="620" cy="50" r="28" fill="none" stroke="#58a6ff" stroke-width="0.5" opacity="0.15"/>
+  <circle cx="620" cy="50" r="16" fill="none" stroke="#3fb950" stroke-width="0.5" opacity="0.2"/>
+
+  <text x="40" y="100" font-family="'Segoe UI', system-ui, sans-serif" font-size="42" font-weight="700" fill="#ffffff">Arjun Santhosh</text>
+  <text x="42" y="130" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" fill="#8b949e">Full-Stack Developer · Flutter Specialist · MCA Candidate</text>
+  <text x="42" y="175" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#58a6ff" opacity="0.85">Building impactful software · One commit at a time</text>
+</svg>
