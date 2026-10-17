@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="hero.svg" width="100%" alt="Arjun Santhosh - Full-Stack Developer, Flutter and Python, MCA Student" />
+<img src="assets/hero.svg" width="100%" alt="Arjun Santhosh - Full-Stack Developer, Flutter and Python, MCA Student" />
 
 <br/>
 
-<a href="https://arjun-santhosh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&logo=vercel&logoColor=F8F0F3&labelColor=190B12" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/arjun-santhosh-a9a731252/"><img src="https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3&labelColor=190B12" alt="LinkedIn" /></a>
-<a href="https://medium.com/@arjunsanthosh440"><img src="https://img.shields.io/badge/Medium-701A3D?style=for-the-badge&logo=medium&logoColor=F8F0F3&labelColor=190B12" alt="Medium" /></a>
-<a href="https://dev.to/arjunsanthosh09"><img src="https://img.shields.io/badge/Dev.to-701A3D?style=for-the-badge&logo=devdotto&logoColor=F8F0F3&labelColor=190B12" alt="Dev.to" /></a>
-<a href="mailto:arjunsanthoshcc@gmail.com"><img src="https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3&labelColor=190B12" alt="Email" /></a>
+<a href="https://arjun-santhosh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A7A4C?style=for-the-badge&logo=vercel&logoColor=F0F9F4&labelColor=0B1B12" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/arjun-santhosh-a9a731252/"><img src="https://img.shields.io/badge/LinkedIn-1A7A4C?style=for-the-badge&logo=linkedin&logoColor=F0F9F4&labelColor=0B1B12" alt="LinkedIn" /></a>
+<a href="https://medium.com/@arjunsanthosh440"><img src="https://img.shields.io/badge/Medium-1A7A4C?style=for-the-badge&logo=medium&logoColor=F0F9F4&labelColor=0B1B12" alt="Medium" /></a>
+<a href="https://dev.to/arjunsanthosh09"><img src="https://img.shields.io/badge/Dev.to-1A7A4C?style=for-the-badge&logo=devdotto&logoColor=F0F9F4&labelColor=0B1B12" alt="Dev.to" /></a>
+<a href="mailto:arjunsanthoshcc@gmail.com"><img src="https://img.shields.io/badge/Email-1A7A4C?style=for-the-badge&logo=gmail&logoColor=F0F9F4&labelColor=0B1B12" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="skills-marquee.svg" width="100%" alt="Python, JavaScript, Dart, SQL, PHP, Django, Flask, React.js, Flutter, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Git, scikit-learn, Gemini API" />
+<img src="assets/skills-marquee.svg" width="100%" alt="Python, JavaScript, Dart, SQL, PHP, Django, Flask, React.js, Flutter, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Git, scikit-learn, Gemini API" />
 
 </div>
 
@@ -31,27 +31,27 @@ I'm an MCA student and full-stack developer who builds web and cross-platform Fl
 - 🎯 Looking for an entry-level Full-Stack Developer role (Flutter as a secondary focus)
 
 <div align="center">
-<img src="divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 ## Highlights
 
 <div align="center">
-<img src="highlights.svg" width="100%" alt="NASA Space Apps Global Nominee 2025; State Hackathon Runner-Up 2024; 5 first-author research papers; Student Innovation Ambassador 2023 to 2025" />
+<img src="assets/highlights.svg" width="100%" alt="NASA Space Apps Global Nominee 2025; State Hackathon Runner-Up 2024; 5 first-author research papers; Student Innovation Ambassador 2023 to 2025" />
 </div>
 
 <div align="center">
-<img src="divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 ## Journey
 
 <div align="center">
-<img src="journey.svg" width="100%" alt="Career timeline from 2022 to 2026" />
+<img src="assets/journey.svg" width="100%" alt="Career timeline from 2022 to 2026" />
 </div>
 
 <div align="center">
-<img src="divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 ## Featured Projects
@@ -65,7 +65,7 @@ I'm an MCA student and full-stack developer who builds web and cross-platform Fl
 | 🩸 [**Blood Connect**](https://github.com/Arjunsanthosh09/Blood-Connect)<br/>Blood donation management | Connects donors with recipients: donor registration, blood group and location search, and request management. | PHP, MySQL, Bootstrap, JavaScript |
 
 <div align="center">
-<img src="divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 ## Experience
@@ -75,22 +75,22 @@ I'm an MCA student and full-stack developer who builds web and cross-platform Fl
 Led a team building **ClinicSys**, a clinic management system with a Django REST API backend and a React.js frontend. Delivered role-based dashboards for administrators, receptionists, doctors, pharmacists and lab technicians, with an analytics dashboard built in Recharts. Features include patient registration, appointment scheduling, prescriptions, pharmacy inventory with low-stock alerts, GST billing and lab reports.
 
 <div align="center">
-<img src="divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 ## Tech Stack
 
 | | |
 | :-- | :-- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-451126?style=flat-square&logo=python&logoColor=F8F0F3&labelColor=190B12) ![JavaScript](https://img.shields.io/badge/JavaScript-451126?style=flat-square&logo=javascript&logoColor=F8F0F3&labelColor=190B12) ![Dart](https://img.shields.io/badge/Dart-451126?style=flat-square&logo=dart&logoColor=F8F0F3&labelColor=190B12) ![PHP](https://img.shields.io/badge/PHP-451126?style=flat-square&logo=php&logoColor=F8F0F3&labelColor=190B12) ![SQL](https://img.shields.io/badge/SQL-451126?style=flat-square&logo=mysql&logoColor=F8F0F3&labelColor=190B12) ![HTML5](https://img.shields.io/badge/HTML5-451126?style=flat-square&logo=html5&logoColor=F8F0F3&labelColor=190B12) ![CSS3](https://img.shields.io/badge/CSS3-451126?style=flat-square&logo=css3&logoColor=F8F0F3&labelColor=190B12) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-451126?style=flat-square&logo=django&logoColor=F8F0F3&labelColor=190B12) ![Flask](https://img.shields.io/badge/Flask-451126?style=flat-square&logo=flask&logoColor=F8F0F3&labelColor=190B12) ![React](https://img.shields.io/badge/React-451126?style=flat-square&logo=react&logoColor=F8F0F3&labelColor=190B12) ![Flutter](https://img.shields.io/badge/Flutter-451126?style=flat-square&logo=flutter&logoColor=F8F0F3&labelColor=190B12) ![Node.js](https://img.shields.io/badge/Node.js-451126?style=flat-square&logo=nodedotjs&logoColor=F8F0F3&labelColor=190B12) ![Express](https://img.shields.io/badge/Express-451126?style=flat-square&logo=express&logoColor=F8F0F3&labelColor=190B12) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-451126?style=flat-square&logo=mysql&logoColor=F8F0F3&labelColor=190B12) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-451126?style=flat-square&logo=postgresql&logoColor=F8F0F3&labelColor=190B12) ![MongoDB](https://img.shields.io/badge/MongoDB-451126?style=flat-square&logo=mongodb&logoColor=F8F0F3&labelColor=190B12) ![Firebase](https://img.shields.io/badge/Firebase-451126?style=flat-square&logo=firebase&logoColor=F8F0F3&labelColor=190B12) |
-| **AI and Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-451126?style=flat-square&logo=scikitlearn&logoColor=F8F0F3&labelColor=190B12) ![Gemini API](https://img.shields.io/badge/Gemini%20API-451126?style=flat-square&logo=googlegemini&logoColor=F8F0F3&labelColor=190B12) ![NetworkX](https://img.shields.io/badge/OSMnx%20%2B%20NetworkX-451126?style=flat-square&labelColor=190B12) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-451126?style=flat-square&logo=git&logoColor=F8F0F3&labelColor=190B12) ![GitHub](https://img.shields.io/badge/GitHub-451126?style=flat-square&logo=github&logoColor=F8F0F3&labelColor=190B12) ![Docker](https://img.shields.io/badge/Docker-451126?style=flat-square&logo=docker&logoColor=F8F0F3&labelColor=190B12) ![Postman](https://img.shields.io/badge/Postman-451126?style=flat-square&logo=postman&logoColor=F8F0F3&labelColor=190B12) ![Android Studio](https://img.shields.io/badge/Android%20Studio-451126?style=flat-square&logo=androidstudio&logoColor=F8F0F3&labelColor=190B12) |
-| **Familiar with** | ![Laravel](https://img.shields.io/badge/Laravel-701A3D?style=flat-square&logo=laravel&logoColor=F8F0F3&labelColor=190B12) ![Bootstrap](https://img.shields.io/badge/Bootstrap-701A3D?style=flat-square&logo=bootstrap&logoColor=F8F0F3&labelColor=190B12) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-701A3D?style=flat-square&logo=tailwindcss&logoColor=F8F0F3&labelColor=190B12) ![GitLab](https://img.shields.io/badge/GitLab-701A3D?style=flat-square&logo=gitlab&logoColor=F8F0F3&labelColor=190B12) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-12452B?style=flat-square&logo=python&logoColor=F0F9F4&labelColor=0B1B12) ![JavaScript](https://img.shields.io/badge/JavaScript-12452B?style=flat-square&logo=javascript&logoColor=F0F9F4&labelColor=0B1B12) ![Dart](https://img.shields.io/badge/Dart-12452B?style=flat-square&logo=dart&logoColor=F0F9F4&labelColor=0B1B12) ![PHP](https://img.shields.io/badge/PHP-12452B?style=flat-square&logo=php&logoColor=F0F9F4&labelColor=0B1B12) ![SQL](https://img.shields.io/badge/SQL-12452B?style=flat-square&logo=mysql&logoColor=F0F9F4&labelColor=0B1B12) ![HTML5](https://img.shields.io/badge/HTML5-12452B?style=flat-square&logo=html5&logoColor=F0F9F4&labelColor=0B1B12) ![CSS3](https://img.shields.io/badge/CSS3-12452B?style=flat-square&logo=css3&logoColor=F0F9F4&labelColor=0B1B12) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-12452B?style=flat-square&logo=django&logoColor=F0F9F4&labelColor=0B1B12) ![Flask](https://img.shields.io/badge/Flask-12452B?style=flat-square&logo=flask&logoColor=F0F9F4&labelColor=0B1B12) ![React](https://img.shields.io/badge/React-12452B?style=flat-square&logo=react&logoColor=F0F9F4&labelColor=0B1B12) ![Flutter](https://img.shields.io/badge/Flutter-12452B?style=flat-square&logo=flutter&logoColor=F0F9F4&labelColor=0B1B12) ![Node.js](https://img.shields.io/badge/Node.js-12452B?style=flat-square&logo=nodedotjs&logoColor=F0F9F4&labelColor=0B1B12) ![Express](https://img.shields.io/badge/Express-12452B?style=flat-square&logo=express&logoColor=F0F9F4&labelColor=0B1B12) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-12452B?style=flat-square&logo=mysql&logoColor=F0F9F4&labelColor=0B1B12) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12452B?style=flat-square&logo=postgresql&logoColor=F0F9F4&labelColor=0B1B12) ![MongoDB](https://img.shields.io/badge/MongoDB-12452B?style=flat-square&logo=mongodb&logoColor=F0F9F4&labelColor=0B1B12) ![Firebase](https://img.shields.io/badge/Firebase-12452B?style=flat-square&logo=firebase&logoColor=F0F9F4&labelColor=0B1B12) |
+| **AI and Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-12452B?style=flat-square&logo=scikitlearn&logoColor=F0F9F4&labelColor=0B1B12) ![Gemini API](https://img.shields.io/badge/Gemini%20API-12452B?style=flat-square&logo=googlegemini&logoColor=F0F9F4&labelColor=0B1B12) ![NetworkX](https://img.shields.io/badge/OSMnx%20%2B%20NetworkX-12452B?style=flat-square&labelColor=0B1B12) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-12452B?style=flat-square&logo=git&logoColor=F0F9F4&labelColor=0B1B12) ![GitHub](https://img.shields.io/badge/GitHub-12452B?style=flat-square&logo=github&logoColor=F0F9F4&labelColor=0B1B12) ![Docker](https://img.shields.io/badge/Docker-12452B?style=flat-square&logo=docker&logoColor=F0F9F4&labelColor=0B1B12) ![Postman](https://img.shields.io/badge/Postman-12452B?style=flat-square&logo=postman&logoColor=F0F9F4&labelColor=0B1B12) ![Android Studio](https://img.shields.io/badge/Android%20Studio-12452B?style=flat-square&logo=androidstudio&logoColor=F0F9F4&labelColor=0B1B12) |
+| **Familiar with** | ![Laravel](https://img.shields.io/badge/Laravel-1A7A4C?style=flat-square&logo=laravel&logoColor=F0F9F4&labelColor=0B1B12) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1A7A4C?style=flat-square&logo=bootstrap&logoColor=F0F9F4&labelColor=0B1B12) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1A7A4C?style=flat-square&logo=tailwindcss&logoColor=F0F9F4&labelColor=0B1B12) ![GitLab](https://img.shields.io/badge/GitLab-1A7A4C?style=flat-square&logo=gitlab&logoColor=F0F9F4&labelColor=0B1B12) |
 
 <div align="center">
-<img src="divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 ## Certifications
@@ -101,24 +101,24 @@ Led a team building **ClinicSys**, a clinic management system with a Django REST
 - **Python Training Programme**, IIT Bombay (2023)
 
 <div align="center">
-<img src="divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
 ## Contribution Heatmap
 
 <div align="center">
-<img src="https://ghchart.rshah.org/701A3D/Arjunsanthosh09" width="100%" alt="Arjunsanthosh09 GitHub contribution graph (live data)" />
+<img src="https://ghchart.rshah.org/1A7A4C/Arjunsanthosh09" width="100%" alt="Arjunsanthosh09 GitHub contribution graph (live data)" />
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunsanthosh09&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsanthosh09&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunsanthosh09&show_icons=true&hide_border=true&bg_color=07110B&title_color=B6EBCF&text_color=F0F9F4&icon_color=5FC48C&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsanthosh09&layout=compact&hide_border=true&bg_color=07110B&title_color=B6EBCF&text_color=F0F9F4" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="footer.svg" width="100%" alt="Open to collaborations and new opportunities" />
+<img src="assets/footer.svg" width="100%" alt="Open to collaborations and new opportunities" />
 </div>
