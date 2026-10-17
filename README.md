@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Arjun Santhosh - Full-Stack Developer, Flutter and Python, MCA Student" />
+<img src="hero.svg" width="100%" alt="Arjun Santhosh - Full-Stack Developer, Flutter and Python, MCA Student" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="assets/skills-marquee.svg" width="100%" alt="Python, JavaScript, Dart, SQL, PHP, Django, Flask, React.js, Flutter, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Git, scikit-learn, Gemini API" />
+<img src="skills-marquee.svg" width="100%" alt="Python, JavaScript, Dart, SQL, PHP, Django, Flask, React.js, Flutter, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, MongoDB, Firebase, Docker, Git, scikit-learn, Gemini API" />
 
 </div>
 
@@ -31,27 +31,27 @@ I'm an MCA student and full-stack developer who builds web and cross-platform Fl
 - 🎯 Looking for an entry-level Full-Stack Developer role (Flutter as a secondary focus)
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
 ## Highlights
 
 <div align="center">
-<img src="assets/highlights.svg" width="100%" alt="NASA Space Apps Global Nominee 2025; State Hackathon Runner-Up 2024; 5 first-author research papers; Student Innovation Ambassador 2023 to 2025" />
+<img src="highlights.svg" width="100%" alt="NASA Space Apps Global Nominee 2025; State Hackathon Runner-Up 2024; 5 first-author research papers; Student Innovation Ambassador 2023 to 2025" />
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
 ## Journey
 
 <div align="center">
-<img src="assets/journey.svg" width="100%" alt="Career timeline from 2022 to 2026" />
+<img src="journey.svg" width="100%" alt="Career timeline from 2022 to 2026" />
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
 ## Featured Projects
@@ -65,7 +65,7 @@ I'm an MCA student and full-stack developer who builds web and cross-platform Fl
 | 🩸 [**Blood Connect**](https://github.com/Arjunsanthosh09/Blood-Connect)<br/>Blood donation management | Connects donors with recipients: donor registration, blood group and location search, and request management. | PHP, MySQL, Bootstrap, JavaScript |
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
 ## Experience
@@ -75,7 +75,7 @@ I'm an MCA student and full-stack developer who builds web and cross-platform Fl
 Led a team building **ClinicSys**, a clinic management system with a Django REST API backend and a React.js frontend. Delivered role-based dashboards for administrators, receptionists, doctors, pharmacists and lab technicians, with an analytics dashboard built in Recharts. Features include patient registration, appointment scheduling, prescriptions, pharmacy inventory with low-stock alerts, GST billing and lab reports.
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
 ## Tech Stack
@@ -90,7 +90,7 @@ Led a team building **ClinicSys**, a clinic management system with a Django REST
 | **Familiar with** | ![Laravel](https://img.shields.io/badge/Laravel-1A7A4C?style=flat-square&logo=laravel&logoColor=F0F9F4&labelColor=0B1B12) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1A7A4C?style=flat-square&logo=bootstrap&logoColor=F0F9F4&labelColor=0B1B12) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1A7A4C?style=flat-square&logo=tailwindcss&logoColor=F0F9F4&labelColor=0B1B12) ![GitLab](https://img.shields.io/badge/GitLab-1A7A4C?style=flat-square&logo=gitlab&logoColor=F0F9F4&labelColor=0B1B12) |
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
 ## Certifications
@@ -101,7 +101,7 @@ Led a team building **ClinicSys**, a clinic management system with a Django REST
 - **Python Training Programme**, IIT Bombay (2023)
 
 <div align="center">
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 </div>
 
 ## Contribution Heatmap
@@ -120,5 +120,5 @@ Led a team building **ClinicSys**, a clinic management system with a Django REST
 <br/>
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="Open to collaborations and new opportunities" />
+<img src="footer.svg" width="100%" alt="Open to collaborations and new opportunities" />
 </div>
