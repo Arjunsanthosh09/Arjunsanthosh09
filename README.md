@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Arjun Santhosh - Flutter Developer, Full-Stack Developer (PHP, Python Flask), MCA Student" />
+<img src="hero.svg" width="100%" alt="Arjun Santhosh - Flutter Developer, Full-Stack Developer (PHP, Python Flask), MCA Student" />
 
 <br/>
 
@@ -78,6 +78,6 @@ I'm an MCA student and full-stack developer with a strong foundation in Flutter 
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Open to collaborations and new opportunities" />
+<img src="footer.svg" width="100%" alt="Open to collaborations and new opportunities" />
 
 </div>
